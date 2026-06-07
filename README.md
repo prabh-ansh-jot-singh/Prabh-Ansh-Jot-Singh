@@ -1,27 +1,120 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>I’m a Computer Science engineering student with hands-on experience in cybersecurity, automation, and AI-driven projects. I enjoy building practical solutions like fraud detection systems, trust and safety platforms, and CRM automations that solve real problems.<br><br>🛠 Languages & Tech I work with:<br>Python, c++ , C, SQL, Flask, Scikit-learn, Git<br><br>🌱 Currently exploring:<br>Machine Learning, cybersecurity threat detection, backend APIs, Linux CLI, Wireshark, Snort, Zoho Deluge, and cloud-based automation<br><br>🤝 Fond of collaborating on:<br>AI security tools, hackathons, automation workflows, and startup-focused tech projects<br><br>⚡ What I’m into:<br>Cybersecurity, startups, problem-solving, and turning ideas into working systems     
+# Hi, I'm Prabh Ansh Jot Singh 👋
 
+### AI/ML Engineer | Cybersecurity Analyst | Building AI-Powered Security & Fraud Detection Solutions
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prabh.ansh.jot.singh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prabhanshjotsingh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhanshjotsingh254@gmail.com) 
+I am a Computer Science graduate passionate about building intelligent systems that improve security, automation, and digital trust.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prabh-ansh-jot-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prabh-ansh-jot-singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabh-ansh-jot-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prabh-ansh-jot-singh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prabh-ansh-jot-singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My work focuses on the intersection of **Artificial Intelligence, Cybersecurity, Data Analytics, and Automation**, where I develop solutions for fraud detection, phishing prevention, threat intelligence, computer vision, and workflow automation.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prabh-ansh-jot-singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 🛡️ TrustNet CyberCop
+
+AI-powered cybersecurity platform for phishing detection, threat intelligence, fraud prevention, and cybersecurity awareness.
+
+**Tech Stack:** Python, Machine Learning, NLP, Flask, MongoDB
+
+---
+
+### 🚦 RUSHSLAYER
+
+AI-powered Smart Traffic & Emergency Response Platform using Computer Vision and OpenCV.
+
+**Features:**
+
+* Vehicle Detection
+* Ambulance Detection
+* Accident Detection
+* Animal Detection
+* Traffic Analytics
+
+**Tech Stack:** Python, OpenCV, Machine Learning, React
+
+---
+
+### 🧾 SmartReceipt
+
+OCR-powered expense management system that extracts and structures receipt data automatically.
+
+**Tech Stack:** Python, OCR, NLP
+
+---
+
+### 👕 ClothBuddy
+
+AI-driven hyperlocal recommendation platform and Navonmesh 2025 Finalist.
+
+**Tech Stack:** Machine Learning, Recommendation Systems
+
+---
+
+## 💼 Experience
+
+### CRM Developer & Business Analyst Intern | ZoChord
+
+* Automated CRM workflows
+* Reduced manual effort by 40%
+* Improved data quality through validation and deduplication
+
+### Cybersecurity Intern | Elevate Labs
+
+* Performed vulnerability assessments
+* Identified security gaps
+* Contributed to phishing detection testing
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Winner – Cyber Phishing Challenge
+* 🏅 Rank 4 – HackSpark25 National Hackathon
+* 🏅 Navonmesh 2025 Finalist
+* 🏅 Rank 37 – National Entrepreneurship Challenge (IIT Bombay E-Cell)
+
+---
+
+## 🛠️ Skills
+
+**Languages**
+
+* Python
+* SQL
+* C++
+* C
+
+**AI & Data**
+
+* Machine Learning
+* NLP
+* Data Analysis
+* Computer Vision
+
+**Cybersecurity**
+
+* Threat Detection
+* Vulnerability Assessment
+* Phishing Prevention
+
+**Tools**
+
+* Git
+* GitHub
+* Postman
+* Docker
+* VS Code
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/prabhanshjotsingh
+* GitHub: github.com/prabh-ansh-jot-singh
+* Email: [prabhanshjotsingh254@gmail.com](mailto:prabhanshjotsingh254@gmail.com)
+
+---
+
+### Currently Seeking
+
+AI/ML Engineer • Cybersecurity Analyst • Data Analyst • Business Analyst opportunities
